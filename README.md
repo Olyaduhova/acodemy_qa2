@@ -103,6 +103,8 @@ Forbes research shows that by having an open-door policy, you are able to gain â
 | Communication Is A Two-Way Street  | Y  |
 | One-On-One Meetings Are Vital  | N  |
 
+![It is Image](https://1.bp.blogspot.com/-5fYgQPXDgek/XrQ-6MpXuqI/AAAAAAAACmc/1uWxPnQdvBYCrOpSu3H7K90Lk2unYZYqACLcBGAsYHQ/s1600/Team-Communication-Quotes-For-The-Workplace%2B%25284%2529.webp)
+
 Streamlined and effective communications start from the top down.
 If you donâ€™t already have a best-practices communications policy in place, create one and use it for orientation and staff training events.
 Also, consider that sometimes a problem that appears to the result of poor communication could be ineffective business practices, poor organization or lackluster time management skills.
