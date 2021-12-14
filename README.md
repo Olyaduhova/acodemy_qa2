@@ -90,6 +90,19 @@ Therefore, one-on-one meetings can help to avoid workplace communication problem
 By having one-on-one meetings you provide your employees with a safe and positive workplace environment where employees feel heard.
 Forbes research shows that by having an open-door policy, you are able to gain “accessibility as a manager, to encourage an open flow of communication, to gain fast access to important or just happening situations or information and to maintain closer working relationships with employees”.
 
+| Problem | Is a solution suggested |
+| ------------- | ------------- |
+| Failure to Communicate Fully | Y |
+| Assuming Someone Else Has the Ball| Y  |
+| Content Cell  | Y  |
+| Inarticulate Communication  | Y  |
+| Being Unprepared  | Y  |
+| Using the Wrong Communication Tool  | Y  |
+| Saying Too Much  | Y  |
+| Listen  | Y  |
+| Communication Is A Two-Way Street  | Y  |
+| One-On-One Meetings Are Vital  | N  |
+
 Streamlined and effective communications start from the top down.
 If you don’t already have a best-practices communications policy in place, create one and use it for orientation and staff training events.
 Also, consider that sometimes a problem that appears to the result of poor communication could be ineffective business practices, poor organization or lackluster time management skills.
