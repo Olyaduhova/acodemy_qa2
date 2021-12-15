@@ -109,3 +109,9 @@ Streamlined and effective communications start from the top down.
 If you don’t already have a best-practices communications policy in place, create one and use it for orientation and staff training events.
 Also, consider that sometimes a problem that appears to the result of poor communication could be ineffective business practices, poor organization or lackluster time management skills.
 Before blaming communication problems, assess the other causes for a breakdown in effective operations.
+
+###### Was created using:
+
+* [CHRON.](https://smallbusiness.chron.com/)
+* [DailyQuotesBank](https://www.dailyquotesbank.com/)
+* [Connecteam](https://connecteam.com/)      
