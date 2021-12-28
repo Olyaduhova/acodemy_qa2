@@ -72,8 +72,8 @@ public class PrimitiveTypes {
         System.out.println("Integer minimal value:" + Integer.MIN_VALUE);
         System.out.println("Integer maximal value:" + Integer.MAX_VALUE);
 
-        System.out.println("Char minimal value:" + Character.MIN_VALUE);
-        System.out.println("Char maximal value:" + Character.MAX_VALUE);
+        System.out.println("Char min.: " + (int)Character.MIN_VALUE);
+        System.out.println("Char max.: " + (int)Character.MAX_VALUE);
 
         System.out.println("Short minimal value:" + Short.MIN_VALUE);
         System.out.println("Short maximal value:" + Short.MAX_VALUE);
