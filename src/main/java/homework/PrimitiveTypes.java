@@ -2,7 +2,7 @@ package homework;
 
 public class PrimitiveTypes {
     public static void main(String[] args) {
-/*1. Create 10 variables.
+/*1. Create 10 examples of each variable.
      Variable should have:
         a. variable name should have minimum 2 words
         b. the value of the variable should be as logical as the name
@@ -12,11 +12,40 @@ public class PrimitiveTypes {
         //Floating point
 
         //Double
+        //Can print out only 15 decimal digits
 
-        double distanceOfPanAmericanHighway = 30577.536D;
-        System.out.println(distanceOfPanAmericanHighway);
+        double archimedesConstant = 3.14159265358979323846264338327950288D;
+        System.out.println(archimedesConstant);
+
+        double brunsConstantForTwinPrimes = 1.902160583104D;
+        System.out.println(brunsConstantForTwinPrimes);
+
+        double omegaConstant = 0.56714329040978387299996866221035554D;
+        System.out.println(omegaConstant);
+
+        double squareRootOfTwo = 1.41421356237309504880168872420969807D;
+        System.out.println(squareRootOfTwo);
+
+        double cubeRootOfTwo = 1.25992104989487316476D;
+        System.out.println(cubeRootOfTwo);
+
+        double goldenRatio = 1.61803398874989484820458683436563811D;
+        System.out.println(goldenRatio);
+
+        double squareRootOfFive = 2.23606797749978969640917366873127623D;
+        System.out.println(squareRootOfFive);
+
+        double reciprocalFibonacciConstant = 3.3598856662431775531720113291892717F;
+        System.out.println(reciprocalFibonacciConstant);
+
+        double laplaceLimit = 0.66274341934918158097D;
+        System.out.println(laplaceLimit);
+
+        double gaussConstant = 0.83462684167407318628D;
+        System.out.println(gaussConstant);
 
         //Float
+        //Can print out only 7 decimal digits
 
         float oneMileInMeters = 1609.34F;
         System.out.println(1609.34F);
@@ -25,17 +54,95 @@ public class PrimitiveTypes {
         float averageWaterTemperatureOfThePacificOcean = 3.5F;
         System.out.println(averageWaterTemperatureOfThePacificOcean + " " + "°C");
 
+        float distanceOfPanAmericanHighway = 30577.536F;
+        System.out.println(distanceOfPanAmericanHighway);
+
+        float embreeTrefethenConstant = 0.70258F;
+        System.out.println(embreeTrefethenConstant);
+
+        float viswanathConstant = 1.13198824F;
+        System.out.println(viswanathConstant);
+
+        float hundredLiterInTableSpoons = 6762.8045404F;
+        System.out.println(hundredLiterInTableSpoons);
+
+        float hundredDropsInOneLiter = 0.005F;
+        System.out.println(hundredDropsInOneLiter);
+
+        float tenThousandLittersInGallons = 2641.7205236F;
+        System.out.println(tenThousandLittersInGallons);
+
+        float oneGallonToMilliliter = 3785.411784F;
+        System.out.println(oneGallonToMilliliter);
+
+        float oneDollarToSouthKoreanWon = 1352.9129591F;
+        System.out.println(oneDollarToSouthKoreanWon);
+
         //Integer
         //Long
 
         long starsCountInMilkyWayGalaxy = 400000000000L;
         System.out.println(starsCountInMilkyWayGalaxy);
 
+        long planetEarthPopulation = 7785300000L;
+        System.out.println(planetEarthPopulation);
+
+        long approximateMicroOrganismCount = 1000000000000L;
+        System.out.println(approximateMicroOrganismCount);
+
+        long distanceToMoonInCentimeters = 38440000000L;
+        System.out.println(distanceToMoonInCentimeters);
+
+        long fuelConsumptionInUS = 123000000000L;
+        System.out.println(fuelConsumptionInUS);
+
+        long studentsCountInRussia = 4000000L;
+        System.out.println(studentsCountInRussia);
+
+        long populationOfTheUS = 329000000L;
+        System.out.println(populationOfTheUS);
+
+        long populationOfTokyo = 38000000L;
+        System.out.println(populationOfTokyo);
+
+        long premiumYoutubeSubscribers = 30000000L;
+        System.out.println(premiumYoutubeSubscribers);
+
+        long totalDailyHoursWatchedOnYoutube = 1000000000L;
+        System.out.println(totalDailyHoursWatchedOnYoutube);
+
         //Integer
 
         int populationOfBalticStates = 6195000;
         System.out.println(6195000);
         System.out.println(populationOfBalticStates);
+
+        int speciesCountOnEarth = 8700000;
+        System.out.println(speciesCountOnEarth);
+
+        int populationOfLatvia = 1900000;
+        System.out.println(populationOfLatvia);
+
+        int largestHDDCapacity = 20000;
+        System.out.println(largestHDDCapacity + " " + "GB");
+
+        int populationOfRiga = 632000;
+        System.out.println(populationOfRiga);
+
+        int totalAreaOfLatvia = 64589;
+        System.out.println(totalAreaOfLatvia);
+
+        int totalAreaOfBalticStates = 175000;
+        System.out.println(totalAreaOfBalticStates);
+
+        int europePopulation = 746000000;
+        System.out.println(europePopulation);
+
+        int penguinCount = 8000000;
+        System.out.println(penguinCount);
+
+        int elephantCountInTheWorld = 500000;
+        System.out.println(elephantCountInTheWorld);
 
         //Char
 
@@ -45,6 +152,30 @@ public class PrimitiveTypes {
         char dollarUniCode = '\u0024';
         System.out.println(dollarUniCode);
 
+        char sUniCode = '\u0053';
+        System.out.println(sUniCode);
+
+        char lUniCode = '\u004C';
+        System.out.println(lUniCode);
+
+        char eUniCode = '\u0045';
+        System.out.println(eUniCode);
+
+        char eeUniCode = '\u0065';
+        System.out.println(eeUniCode);
+
+        char pUniCode = '\u0050';
+        System.out.println(pUniCode);
+
+        char z = 'Z';
+        System.out.println(z);
+
+        char h = 'h';
+        System.out.println(h);
+
+        char w = 'W';
+        System.out.println(w);
+
         //Short
 
         short depthOfThePacificOcean = 11022;
@@ -53,10 +184,63 @@ public class PrimitiveTypes {
         short voltageInEuropeanOutlet = 220;
         System.out.println(voltageInEuropeanOutlet);
 
+        short primarySchoolsCountInUK = 20806;
+        System.out.println(primarySchoolsCountInUK);
+
+        short mountEverestHeight = 8845;
+        System.out.println(mountEverestHeight);
+
+        short longestRiverInLatvia = 1020;
+        System.out.println(longestRiverInLatvia);
+
+        short latvianCoastalZone = 496;
+        System.out.println(latvianCoastalZone + " " + "km");
+
+        short riverCountInLatvia = 12000;
+        System.out.println(riverCountInLatvia);
+
+        short lakeCountInLatvia = 3000;
+        System.out.println(lakeCountInLatvia);
+
+        short distanceFromMoscowToBerlin = 1719;
+        System.out.println(distanceFromMoscowToBerlin);
+
+        short distanceFromLondonToGlasgow = 667;
+        System.out.println(distanceFromLondonToGlasgow);
+
         //Byte
 
         byte averageSunnyDaysInRiga = 104;
         System.out.println(averageSunnyDaysInRiga);
+
+        byte lowestTemperatureOnEarth = -89;
+        System.out.println(lowestTemperatureOnEarth + " " + "Celsius");
+
+        byte largestSDDCapacity = 100;
+        System.out.println(largestSDDCapacity + " " + "TB");
+
+        byte theKhmerAlphabet = 74;
+        System.out.println(theKhmerAlphabet + " " + "letters");
+
+        byte secondsInOneMinute = 60;
+        System.out.println(secondsInOneMinute);
+
+        byte dialectsInChina = 8;
+        System.out.println(dialectsInChina);
+
+        byte standardKeyboardKeyCount = 101;
+        System.out.println(standardKeyboardKeyCount);
+
+        byte mainDialectsInLatvia = 3;
+        System.out.println(mainDialectsInLatvia);
+
+        byte dogsPawsCount = 4;
+        System.out.println(dogsPawsCount);
+
+        byte catToeBeansCount = 18;
+        System.out.println(catToeBeansCount);
+
+        //Boolean
 
 //2. Display the minimum and maximum values for each data type.
 
@@ -72,8 +256,8 @@ public class PrimitiveTypes {
         System.out.println("Integer minimal value:" + Integer.MIN_VALUE);
         System.out.println("Integer maximal value:" + Integer.MAX_VALUE);
 
-        System.out.println("Char min.: " + (int)Character.MIN_VALUE);
-        System.out.println("Char max.: " + (int)Character.MAX_VALUE);
+        System.out.println("Char min.: " + (int) Character.MIN_VALUE);
+        System.out.println("Char max.: " + (int) Character.MAX_VALUE);
 
         System.out.println("Short minimal value:" + Short.MIN_VALUE);
         System.out.println("Short maximal value:" + Short.MAX_VALUE);
@@ -155,7 +339,7 @@ Use also System.out.printf (format).
         String subtle = "profound";
         String sam = "secret and mystery";
         String teo = "to every other";
-        System.out.printf("A wonderful %s to reflect %s, that %s %s is constituted to be that %s %s %s.", evidence,consequentTo, everyHuman, livingThing, subtle, sam, teo);
+        System.out.printf("A wonderful %s to reflect %s, that %s %s is constituted to be that %s %s %s.", evidence, consequentTo, everyHuman, livingThing, subtle, sam, teo);
 
         String space = " ";
         System.out.println(space);
@@ -163,7 +347,7 @@ Use also System.out.printf (format).
         String author = "Charles Dickens";
         String poem = "A Tale of Two Cities";
         System.out.println(poem + ", " + author);
-      }
+    }
 
 
 }
