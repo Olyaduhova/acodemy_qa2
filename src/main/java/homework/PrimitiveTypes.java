@@ -242,6 +242,53 @@ public class PrimitiveTypes {
 
         //Boolean
 
+        boolean isEmpty = true;
+        if (isEmpty){
+            System.out.println("The glass is empty");
+        }
+
+        boolean isEmpty1 = false;
+        if(isEmpty1){
+            System.out.println("The glass is empty");
+        } else {
+            System.out.println("The glass is filled");
+        }
+
+        boolean isAnimal = true;
+        if (isAnimal){
+            System.out.println("Have paws");
+        }
+
+        boolean isHuman = false;
+        if (isHuman){
+            System.out.println("Have two eyes");
+        } else {
+            System.out.println("Have a laser vision");
+        }
+
+        System.out.println(15 < 10);
+
+        System.out.println(45 != 15);
+
+        boolean isCorrect = 15 > 10;
+        boolean notCorrect = 20 >= 100;
+        System.out.println(isCorrect);
+        System.out.println(notCorrect);
+
+        if (15 < 17){
+            System.out.println("Yes, it`s true");
+        }
+
+        int num1 = 13;
+        if (15 < num1){
+            System.out.println("It`s false");
+        }
+
+        int num2 = 13;
+        if (15 > num2){
+            System.out.println("It`s true");
+        }
+
 //2. Display the minimum and maximum values for each data type.
 
         System.out.println("Double minimal value:" + Double.MIN_VALUE);
