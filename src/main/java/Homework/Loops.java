@@ -198,7 +198,7 @@ public class Loops {
         System.out.println("\n");
 
         for (int i = 1; i <= 10; i++) {
-            for (int f = 1; f <= i; f++){
+            for (int f = 1; f <= i; f++) {
                 System.out.print(f + "*" + i + "=" + (i * f) + "\t");
             }
             System.out.println();
