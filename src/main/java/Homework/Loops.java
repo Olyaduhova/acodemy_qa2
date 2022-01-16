@@ -8,6 +8,7 @@ public class Loops {
 
         int b = 13;
         System.out.println("Integer value is " + b);
+        System.out.println("\n");
 
         /*2. In int type variable are numbers from 18 to 65.
         Dry-cleaning discount:
@@ -37,6 +38,7 @@ public class Loops {
                 System.out.println("Your age: " + myAge + "\n" + "Your discount: " + discount20);
             }
         }
+        System.out.println("\n");
         /*3. Create a String array and add 10 animal names to it.
          a Loop through the array, find and print any animal.
          */
@@ -48,6 +50,7 @@ public class Loops {
 
         String[] animals1 = {"elephant", "zebra", "lion", "monkey", "turtle", "camel", "dog", "cat", "wolf", "fox"};
         System.out.println("5th animal in array: " + animals1[4]);
+        System.out.println("\n");
 
 
         //4. Create array with numbers from 0 to 10. Print all even numbers from the array.
@@ -68,6 +71,34 @@ public class Loops {
         Using switch operator teach the program to print which type of transport you will choose to get to the office,
         according to value in variable.
          */
+        String weather = "Warm and sunny";
+        switch (weather) {
+            case "Freezing":
+                System.out.println("You can take a taxi.");
+                break;
+            case "Snowstorm":
+                System.out.println("Better take a bus.");
+                break;
+            case "Cold and sunny":
+                System.out.println("You can go by car.");
+                break;
+            case "Cold and rainy":
+                System.out.println("You can go by car.");
+                break;
+            case "Warm and sunny":
+                System.out.println("It`s nice time for a bike ride!");
+                break;
+            case "Warm and rainy":
+                System.out.println("It`s a nice time for a walk!");
+                break;
+            case "Very hot":
+                System.out.println("Take a taxi with AC.");
+                break;
+            default:
+                System.out.println("Probably you are on Mars");
+                break;
+        }
+        System.out.println("\n");
         //6. Print numbers from 1 to 100
 
         int number1 = 0;
