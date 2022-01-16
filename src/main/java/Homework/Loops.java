@@ -17,6 +17,26 @@ public class Loops {
         Write code where variable value change allows to get to definite group
         and print message in which you will see in which age group you are and your discount rate size.
          */
+        int myAge = 34;
+
+        int discount10 = 10;
+        int discount15 = 15;
+        int discount20 = 20;
+
+        int age1 = 18;
+        int age2 = 21;
+        int age3 = 22;
+        int age4 = 65;
+
+        if (myAge >= age1 && myAge <= age2) {
+            System.out.println("Your age: " + myAge + "\n" + "Your discount: " + discount10);
+        } else if (myAge >= age3 && myAge <= age4) {
+            System.out.println("Your age: " + myAge + "\n" + "Your discount: " + discount15);
+        } else {
+            if (myAge > age4) {
+                System.out.println("Your age: " + myAge + "\n" + "Your discount: " + discount20);
+            }
+        }
         /*3. Create a String array and add 10 animal names to it.
          a Loop through the array, find and print any animal.
          */
@@ -69,7 +89,7 @@ public class Loops {
         int a = 1;
         int c = 1;
         do {
-            System.out.println(a + "*" + c + "=" + a*c);
+            System.out.println(a + "*" + c + "=" + a * c);
             c++;
         } while (c <= 10);
         System.out.println("\n");
@@ -77,74 +97,74 @@ public class Loops {
         int a2 = 2;
         int c2 = 2;
         do {
-            System.out.println(a2 + "*" + c2 + "=" + a2*c2);
+            System.out.println(a2 + "*" + c2 + "=" + a2 * c2);
             c2++;
-        } while (c2<=10);
+        } while (c2 <= 10);
         System.out.println("\n");
 
         int a3 = 3;
         int c3 = 3;
         do {
-            System.out.println(a3 + "*" + c3 + "=" + a3*c3);
+            System.out.println(a3 + "*" + c3 + "=" + a3 * c3);
             c3++;
-        } while (c3<=10);
+        } while (c3 <= 10);
         System.out.println("\n");
 
         int a4 = 4;
         int c4 = 4;
         do {
-            System.out.println(a4 + "*" + c4 + "=" + a4*c4);
+            System.out.println(a4 + "*" + c4 + "=" + a4 * c4);
             c4++;
-        } while (c4<=10);
+        } while (c4 <= 10);
         System.out.println("\n");
 
         int a5 = 5;
         int c5 = 5;
         do {
-            System.out.println(a5 + "*" + c5 + "=" + a5*c5);
+            System.out.println(a5 + "*" + c5 + "=" + a5 * c5);
             c5++;
-        } while (c5<=10);
+        } while (c5 <= 10);
         System.out.println("\n");
 
         int a6 = 6;
         int c6 = 6;
         do {
-            System.out.println(a6 + "*" + c6 + "=" + a6*c6);
+            System.out.println(a6 + "*" + c6 + "=" + a6 * c6);
             c6++;
-        } while (c6<=10);
+        } while (c6 <= 10);
         System.out.println("\n");
 
         int a7 = 7;
         int c7 = 7;
         do {
-            System.out.println(a7 + "*" + c7 + "=" + a7*c7);
+            System.out.println(a7 + "*" + c7 + "=" + a7 * c7);
             c7++;
-        } while (c7<=10);
+        } while (c7 <= 10);
         System.out.println("\n");
 
         int a8 = 8;
         int c8 = 8;
         do {
-            System.out.println(a8 + "*" + c8 + "=" + a8*c8);
+            System.out.println(a8 + "*" + c8 + "=" + a8 * c8);
             c8++;
-        } while (c8<=10);
+        } while (c8 <= 10);
         System.out.println("\n");
 
         int a9 = 9;
         int c9 = 9;
         do {
-            System.out.println(a9 + "*" + c9 + "=" + a9*c9);
+            System.out.println(a9 + "*" + c9 + "=" + a9 * c9);
             c9++;
-        } while (c9<=10);
+        } while (c9 <= 10);
         System.out.println("\n");
 
         int a10 = 10;
         int c10 = 10;
         do {
-            System.out.println(a10 + "*" + c10 + "=" + a10*c10);
+            System.out.println(a10 + "*" + c10 + "=" + a10 * c10);
             c10++;
-        } while (c10<=10);
+        } while (c10 <= 10);
         System.out.println("\n");
 
-        }
     }
+}
