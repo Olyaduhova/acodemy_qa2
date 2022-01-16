@@ -123,7 +123,7 @@ public class Loops {
             System.out.println(a + "*" + c + "=" + a * c);
             c++;
         } while (c <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a2 = 2;
         int c2 = 2;
@@ -131,7 +131,7 @@ public class Loops {
             System.out.println(a2 + "*" + c2 + "=" + a2 * c2);
             c2++;
         } while (c2 <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a3 = 3;
         int c3 = 3;
@@ -139,7 +139,7 @@ public class Loops {
             System.out.println(a3 + "*" + c3 + "=" + a3 * c3);
             c3++;
         } while (c3 <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a4 = 4;
         int c4 = 4;
@@ -147,7 +147,7 @@ public class Loops {
             System.out.println(a4 + "*" + c4 + "=" + a4 * c4);
             c4++;
         } while (c4 <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a5 = 5;
         int c5 = 5;
@@ -155,7 +155,7 @@ public class Loops {
             System.out.println(a5 + "*" + c5 + "=" + a5 * c5);
             c5++;
         } while (c5 <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a6 = 6;
         int c6 = 6;
@@ -163,7 +163,7 @@ public class Loops {
             System.out.println(a6 + "*" + c6 + "=" + a6 * c6);
             c6++;
         } while (c6 <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a7 = 7;
         int c7 = 7;
@@ -171,7 +171,7 @@ public class Loops {
             System.out.println(a7 + "*" + c7 + "=" + a7 * c7);
             c7++;
         } while (c7 <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a8 = 8;
         int c8 = 8;
@@ -179,7 +179,7 @@ public class Loops {
             System.out.println(a8 + "*" + c8 + "=" + a8 * c8);
             c8++;
         } while (c8 <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a9 = 9;
         int c9 = 9;
@@ -187,7 +187,7 @@ public class Loops {
             System.out.println(a9 + "*" + c9 + "=" + a9 * c9);
             c9++;
         } while (c9 <= 10);
-        System.out.println("\n");
+        System.out.println("");
 
         int a10 = 10;
         int c10 = 10;
@@ -196,6 +196,15 @@ public class Loops {
             c10++;
         } while (c10 <= 10);
         System.out.println("\n");
+
+        for (int i = 1; i <= 10; i++) {
+            for (int f = 1; f <= i; f++){
+                System.out.print(f + "*" + i + "=" + (i * f) + "\t");
+            }
+            System.out.println();
+
+
+        }
 
     }
 }
