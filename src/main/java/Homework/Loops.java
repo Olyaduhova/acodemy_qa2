@@ -6,8 +6,8 @@ public class Loops {
 
         //1. If variable type is int = 10, print out: "Integer value is 10".
 
-        int b = 13;
-        if (b > 12 && b < 14) {
+        int b = 10;
+        if (b ==10) {
             System.out.println("Integer value is " + b);
         }
         System.out.println("\n");
@@ -205,6 +205,13 @@ public class Loops {
             }
             System.out.println();
 
+//            for (int i = 1; i <= 10; i++) {
+//                for (int j = 1; j <= 10; j++) {
+//                    int result = i * j;
+//                    System.out.print(result + " ");
+//                }
+//                System.out.println();
+//            }
 
         }
 
