@@ -7,7 +7,9 @@ public class Loops {
         //1. If variable type is int = 10, print out: "Integer value is 10".
 
         int b = 13;
-        System.out.println("Integer value is " + b);
+        if (b > 12 && b < 14) {
+            System.out.println("Integer value is " + b);
+        }
         System.out.println("\n");
 
         /*2. In int type variable are numbers from 18 to 65.
