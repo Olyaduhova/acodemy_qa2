@@ -124,9 +124,9 @@ he spends energy, feeding the animal, he gets all 4 energy charges)
 then the program should tell you to send the animal to eat!
  */
 
-    public void energyZero(){
+    public void energyZero() {
         log.info("Energy is empty.");
-        if (energyLevel == 0){
+        if (energyLevel == 0) {
             System.out.println("I'm hungry. Please feed me!");
         }
     }

@@ -1,0 +1,7 @@
+15:01:44.968 [main] INFO  Homework.Animal - Wake time.
+15:01:44.971 [main] INFO  Homework.Animal - Walk time.
+15:01:44.972 [main] INFO  Homework.Animal - Training time.
+15:01:44.972 [main] INFO  Homework.Animal - Play time.
+15:01:44.972 [main] INFO  Homework.Animal - Play time.
+15:01:44.972 [main] INFO  Homework.Animal - Energy is empty.
+15:01:44.972 [main] INFO  Homework.Animal - Feed time.

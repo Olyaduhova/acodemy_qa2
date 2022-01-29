@@ -75,7 +75,7 @@ public class ActionsDescription {
         marley.playTime();
         marley.energyZero();
         marley.feedTime();
-        //Teach the program to send the animal to sleep
+        //Teach the program to send the animal to sleep.
         marley.napTime = true;
         System.out.println("It's nap time. Z - z - z");
 
